@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv
+.env
+
+# IDEs
+.idea
+.vscode
+
+# Logs
+*.log
+hs_err_pid*.log
+
+# Local/Temp files
+uv_fail.txt
+uv_ok.txt
